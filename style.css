@@ -1,0 +1,21 @@
+* {box-sizing: border-box; margin: 0; padding: 0;}
+
+.card{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+
+    border:ridge 2px rgba(128, 128, 128, 0.418);
+    padding: 20px 0;
+
+}
+
+.stats {
+    background: gray;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+
